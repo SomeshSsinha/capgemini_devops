@@ -1,3 +1,5 @@
 class abc{
-void welcome()
+void welcome(){
+  hello
+}
 }
