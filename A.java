@@ -1,5 +1,6 @@
 class abc{
 void welcome(){
-  hello
+  hello();
+  a,b,c
 }
 }
